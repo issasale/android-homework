@@ -4,4 +4,21 @@
     <string name="student_group">11-505</string>
     <string name="open_second_screen">Открыть второй экран</string>
     <string name="student_info_format">%1$s/%2$s</string>
+    <string name="email_label">Электронная почта</string>
+    <string name="password_label">Пароль</string>
+    <string name="login_button">Войти</string>
+
+    <string name="email_required">Введите электронную почту</string>
+    <string name="email_invalid">Некорректный адрес электронной почты</string>
+
+    <string name="password_required">Введите пароль</string>
+    <string name="password_invalid">Пароль должен содержать минимум 8 символов, латинские буквы и цифры</string>
+
+    <string name="generated_password_label">Сгенерированный пароль</string>
+    <string name="show_password">Показать</string>
+    <string name="hide_password">Скрыть</string>
+    <string name="back_button">Назад</string>
+
+    <string name="password_match">Пароли совпадают</string>
+    <string name="password_mismatch">Пароли не совпадают</string>
 </resources>
