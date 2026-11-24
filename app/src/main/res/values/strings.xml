@@ -21,4 +21,13 @@
 
     <string name="password_match">Пароли совпадают</string>
     <string name="password_mismatch">Пароли не совпадают</string>
+    <string name="coroutines_title">Запуск корутин</string>
+    <string name="coroutines_count">Количество корутин</string>
+
+    <string name="run_sequential">Запустить последовательно</string>
+    <string name="run_parallel">Запустить параллельно</string>
+    <string name="cancel_coroutines">Отменить все</string>
+
+    <string name="coroutines_progress">Завершено: %1$d из %2$d</string>
+    <string name="invalid_coroutines_count">Введите число от 1 до 100</string>
 </resources>
